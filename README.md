@@ -27,7 +27,7 @@ Trần Anh Đạt
 
 ### Trưởng nhóm: Trịnh Vinh Khánh
 1. Công việc:
- +Chọn đề tài  
+ + Chọn đề tài  
  + Tìm dữ liệu huấn luyện  
  + Phân công công việc cho các thành viên  
  + Triển khai thuật toán Random Forest
