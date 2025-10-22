@@ -19,21 +19,21 @@ Trần Anh Đạt
 ## Phân công công việc
 
 ### Trưởng nhóm: Trịnh Vinh Khánh
-Công việc:
+####Công việc:
  Chọn đề tài  
  Tìm dữ liệu huấn luyện  
  Phân công công việc cho các thành viên  
  Triển khai thuật toán Random Forest
 
-## Thành viên 1: Nguyễn Quang Huy
-Công việc:
+### Thành viên 1: Nguyễn Quang Huy
+####Công việc:
  Tìm hiểu và triển khai thuật toán Softmax Regression
 
-## Thành viên 2: Vũ Đức Anh
-Công việc:
+### Thành viên 2: Vũ Đức Anh
+####Công việc:
  Tìm hiểu và triển khai thuật toán Faster R-CNN  
  Triển khai mô hình Online trên Streamlit cho cả nhóm
 
-## Thành viên 3: Phạm Đức Thắng
-Công việc:
+### Thành viên 3: Phạm Đức Thắng
+####Công việc:
  Tìm hiểu và triển khai thuật toán Softmax Regression
