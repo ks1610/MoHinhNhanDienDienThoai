@@ -27,20 +27,28 @@ Trần Anh Đạt
 
 ### Trưởng nhóm: Trịnh Vinh Khánh
 Công việc:
- Chọn đề tài  
- Tìm dữ liệu huấn luyện  
- Phân công công việc cho các thành viên  
- Triển khai thuật toán Random Forest
+ +Chọn đề tài  
+ + Tìm dữ liệu huấn luyện  
+ + Phân công công việc cho các thành viên  
+ + Triển khai thuật toán Random Forest
+Mô hình:
+ https://github.com/ks1610/MoHinhNhanDienDienThoai/tree/master/TrinhVinhKhanh_RandomForest
 
 ### Thành viên 1: Nguyễn Quang Huy
 Công việc:
- Tìm hiểu và triển khai thuật toán Softmax Regression
+ + Tìm hiểu và triển khai thuật toán Softmax Regression
+Mô hình:
+ + https://github.com/ks1610/MoHinhNhanDienDienThoai/tree/master/NguyenQuangHuy_SoftmaxRegression
 
 ### Thành viên 2: Vũ Đức Anh
 Công việc:
- Tìm hiểu và triển khai thuật toán Faster R-CNN  
- Triển khai mô hình Online trên Streamlit cho cả nhóm
+ + Tìm hiểu và triển khai thuật toán Faster R-CNN  
+ + Triển khai mô hình Online trên Streamlit cho cả nhóm
+Mô hình:
+ + https://github.com/ks1610/MoHinhNhanDienDienThoai/tree/master/VuDucAnh_FasterR-CNN
 
 ### Thành viên 3: Phạm Đức Thắng
 Công việc:
- Tìm hiểu và triển khai thuật toán Softmax Regression
+ + Tìm hiểu và triển khai thuật toán Softmax Regression
+Mô hình:
+ + https://github.com/ks1610/MoHinhNhanDienDienThoai/tree/master/PhamDucThang_SVM
