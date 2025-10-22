@@ -3,6 +3,13 @@
 ## Đề tài
 Mô hình nhận diện điện thoại theo trạng thái
 
+## Mô hình deploy online:
+### Website:
+https://nhom11ioo.streamlit.app/
+### Source:
+https://github.com/turtter/nhom11.io
+
+
 ## Giảng viên hướng dẫn
 Trần Anh Đạt
 
