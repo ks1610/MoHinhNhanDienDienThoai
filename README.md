@@ -32,7 +32,7 @@ Trần Anh Đạt
  + Phân công công việc cho các thành viên  
  + Triển khai thuật toán Random Forest
 2. Mô hình:
- https://github.com/ks1610/MoHinhNhanDienDienThoai/tree/master/TrinhVinhKhanh_RandomForest
+ + https://github.com/ks1610/MoHinhNhanDienDienThoai/tree/master/TrinhVinhKhanh_RandomForest
 
 ### Thành viên 1: Nguyễn Quang Huy
 1. Công việc:
