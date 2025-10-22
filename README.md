@@ -3,6 +3,9 @@
 ## Đề tài
 Mô hình nhận diện điện thoại theo trạng thái
 
+## Code cho các thuật toán huấn luyện sủ dụng cho đề tài:
+https://github.com/ks1610/MoHinhNhanDienDienThoai
+
 ## Mô hình deploy online:
 ### Website:
 https://nhom11ioo.streamlit.app/
