@@ -1,4 +1,4 @@
-# Nhóm 11
+# Các thành viên và phân công công việc của nhóm 11
 
 ## Đề tài
 Mô hình nhận diện điện thoại theo trạng thái
