@@ -13,7 +13,7 @@ https://github.com/turtter/nhom11.io
 ## Giảng viên hướng dẫn
 Trần Anh Đạt
 
-## Thành viên nhóm - MSV
+## Thành viên nhóm - MSV - Lớp
 
 | Họ và Tên          | Mã Sinh Viên | Lớp         |
 |---------------------|--------------|------------|
